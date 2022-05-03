@@ -1,4 +1,5 @@
 package com.healthy;
 
-public class Gender {
+public enum Gender {
+    MALE, FEMALE
 }

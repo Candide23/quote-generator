@@ -1,0 +1,6 @@
+.my-border {
+  border-width: 5px;
+  border-color: green;
+  border-style: solid;
+  border-radius: 15px;
+}
